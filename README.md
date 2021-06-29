@@ -1,2 +1,2 @@
 # EDL
-update time 2019
+update 2019
